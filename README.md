@@ -17,10 +17,10 @@
 
 ### Project
 
-|  #  | Date      | Project           | Live Site                                     | Repository      |
-| :-: | --------- | ----------------- | --------------------------------------------- | --------------- |
-| 00  | 24-Jan-21 | Initial Project   | ---                                           | [Repository](#) |
-| 01  | 25-Jan-21 | Birthday Reminder | [Link](http://01-birthday-reminder.surge.sh/) | [Repository](#) |
+|  #  | Date      | Project           | Live Site                                     | Repository                                                                                      |
+| :-: | --------- | ----------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 00  | 24-Jan-21 | Initial Project   | ---                                           | [Repository](#)                                                                                 |
+| 01  | 25-Jan-21 | Birthday Reminder | [Link](http://01-birthday-reminder.surge.sh/) | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/01-birthday-reminder) |
 
 ### Corresponding Tutorial Topics
 
