@@ -26,6 +26,7 @@
 | 03  | 17-Mar-21 | Reviews           | [Link](http://03-reviews.surge.sh/)           | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/03-reviews)           |
 | 04  | 17-Mar-21 | Accordion         | [Link](http://04-accordion.surge.sh/)         | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/04-accordion)         |
 | 05  | 18-Mar-21 | Menu              | [Link](http://05-menu.surge.sh/)              | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/05-menu)              |
+| 06  | 18-Mar-21 | Tabs              | [Link](http://06-tabs.surge.sh/)              | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/06-tabs)              |
 | 16  | 24-Feb-21 | Markdown Preview  | [Link](http://16-markdown-preview.surge.sh/)  | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/16-markdown-preview)  |
 | 17  | 24-Feb-21 | Random Person     | [Link](http://17-random-person.surge.sh/)     | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/17-random-person)     |
 
