@@ -4,7 +4,7 @@
 
 ### Live Site:
 
-http://07-slider.surge.sh/
+http://08-lorem-ipsum.surge.sh/
 
 ### Screenshot
 
@@ -19,8 +19,8 @@ http://07-slider.surge.sh/
 
 I have improve my knowledge about:
 
-- learn React Hooks: `useState`, `useEffect`
-- clear Interval inside `useEffect`
+- learn React Hooks: `useState`
+- practice with Form in React
 
 ### Setup
 
@@ -34,4 +34,21 @@ Start Project: `localhost:3000`
 
 ```
 npm start
+```
+
+### Deploy
+
+1. surge install & surge login [Surge.sh](https://surge.sh/)
+
+2. Open file `deploy-surge`
+3. Update your custom domain in line 11
+
+```
+surge . [your-custom-domain].surge.sh
+```
+
+4. in cmd: run this line:
+
+```
+npm run deploy
 ```
