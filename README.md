@@ -29,6 +29,7 @@
 | 06  | 18-Mar-21 | Tabs                 | [Link](http://06-tabs.surge.sh/)              | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/06-tabs)              |
 | 07  | 20-Mar-21 | Slider               | [Link](http://07-slider.surge.sh/)            | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/07-slider)            |
 | 08  | 20-Mar-21 | Generate Lorem Ipsum | [Link](http://08-lorem-ipsum.surge.sh/)       | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/08-lorem-ipsum)       |
+| 09  | 20-Mar-21 | Color Generator      | [Link](http://09-color-generator.surge.sh/)   | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/09-color-generator)   |
 | 16  | 24-Feb-21 | Markdown Preview     | [Link](http://16-markdown-preview.surge.sh/)  | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/16-markdown-preview)  |
 | 17  | 24-Feb-21 | Random Person        | [Link](http://17-random-person.surge.sh/)     | [Repository](https://github.com/tinspham209/23-projects-react/tree/master/17-random-person)     |
 
